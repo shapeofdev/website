@@ -63,7 +63,7 @@
 		"vite-plugin-pages": "^0.13.1",
 		"vite-plugin-pwa": "^0.7.3",
 		"vue-eslint-parser": "^7.6.0",
-		"vue-tsc": "^0.1.7",
+		"vue-tsc": "^0.2.2",
 		"workbox-cacheable-response": "^6.1.5",
 		"workbox-core": "^6.1.5",
 		"workbox-expiration": "^6.1.5",
